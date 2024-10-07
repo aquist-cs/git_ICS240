@@ -1,0 +1,22 @@
+3   Driver	1
+1   Wood	3   10
+2   Wood	5   true
+3   Wood	9
+3   Wood	9
+2   Hybrid	3   true
+1   Hybrid	4   13
+1   Hybrid	5   13
+3   Hybrid	6
+3   Hybrid	7
+2   Iron	5   false
+2   Iron	5   false
+1   Iron	7   45
+1   Iron	8   50
+3   Iron	9
+3   PWedge	48
+2   PWedge	49  true
+2   GWedge	54  false
+3   SWedge	60
+1   LWedge	54  60
+
+

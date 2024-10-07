@@ -1,0 +1,22 @@
+Driver	1
+Wood	3
+Wood	5
+Wood	7
+Wood	9
+Hybrid	3
+Hybrid	4
+Hybrid	5
+Hybrid	6
+Hybrid	7
+Iron	5
+Iron	6
+Iron	7
+Iron	8
+Iron	9
+PWedge	48
+PWedge	49
+GWedge	54
+SWedge	60
+LWedge	54
+
+
