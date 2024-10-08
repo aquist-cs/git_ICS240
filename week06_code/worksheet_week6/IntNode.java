@@ -1,3 +1,5 @@
+package worksheet_week6; 
+
 public class IntNode {
     // Invairant of the IntNode class. 
     //      1. The node's interger data is in the instance variable data. 
