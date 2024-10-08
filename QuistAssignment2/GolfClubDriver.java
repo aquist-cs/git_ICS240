@@ -32,7 +32,7 @@ public class GolfClubDriver {
                 temp = new golfClub(clubName, clubNum); 
             }
 
-            gca.insert(temp);
+            gca.insert(temp); // This is testing insert(). 
         }
         // Print out GolfClubSortedArraySet
         System.out.println("Printing gca:");
@@ -70,8 +70,16 @@ public class GolfClubDriver {
         System.out.print(gca.categorySet(2)); 
         System.out.println();
         System.out.println("Testing categorySet type 3: ");
-        System.out.print(gca.categorySet(3)); 
+        System.out.println(gca.categorySet(3)); 
 
+        // Testing size()
+        System.out.println("Testing size()");
+        System.out.println(gca.size()); 
+        System.out.println();
+
+        // Testing toString()
+        System.out.println("Testing toString()"); 
+        System.out.println(gca.toString()); 
 
         // Closing Scanners
         s.close();
