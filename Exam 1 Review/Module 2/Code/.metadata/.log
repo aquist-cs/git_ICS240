@@ -1,0 +1,87 @@
+!SESSION 2024-09-30 11:50:21.120 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 11:50:22.640
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 13:31:00.341
+!MESSAGE Logback config file: /Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-30 13:32:39.458 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 13:32:40.369
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 13:32:55.843
+!MESSAGE Logback config file: /Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-30 14:37:28.843 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 14:37:30.038
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 14:37:34.023
+!MESSAGE Logback config file: /Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.jdt.launching 4 120 2024-09-30 15:01:43.976
+!MESSAGE Cannot connect to VM
+!STACK 0
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:389)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:276)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:170)
+	at org.eclipse.jdi.internal.connect.SocketTransportService.startListening(SocketTransportService.java:303)
+	at org.eclipse.jdi.internal.connect.SocketTransportImpl.startListening(SocketTransportImpl.java:53)
+	at org.eclipse.jdi.internal.connect.SocketListeningConnectorImpl.startListening(SocketListeningConnectorImpl.java:141)
+	at org.eclipse.jdt.internal.launching.StandardVMDebugger.run(StandardVMDebugger.java:335)
+	at org.eclipse.jdt.launching.JavaLaunchDelegate.launch(JavaLaunchDelegate.java:176)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:805)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-09-30 17:15:58.546 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 17:15:59.808
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 17:16:03.430
+!MESSAGE Logback config file: /Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-09-30 17:17:05.840 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/tony/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 17:17:07.046
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-30 17:17:42.123
+!MESSAGE Logback config file: /Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml

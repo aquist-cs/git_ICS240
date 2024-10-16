@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/tony/Library/Mobile Documents/com~apple~CloudDocs/Metro State University /BS_Computer_Science/ICS240/Exam 1 Review/Module 2/Code/.metadata/.plugins/org.eclipse.jdt.core
+841882672.index
+1865797976.index
+2779982832.index
